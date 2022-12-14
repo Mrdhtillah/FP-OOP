@@ -1,9 +1,12 @@
 # FP-PBO-2022
+&nbsp;
 Final project PBO 2022
+&nbsp;
 Mardhatillah Shevy Ananti 
 (5025211070)
 
-Project  type: Space Adventure Game &nbsp;
+Project  type: Space Adventure Game 
+&nbsp;
 GUI: JavaFX
 
 References:
