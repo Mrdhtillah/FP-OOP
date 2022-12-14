@@ -16,7 +16,9 @@ https://zetcode.com/javagames/collision/
 https://github.com/Mrdhtillah/FP-OOP/blob/f3d6d5cb7ed6e207b82f24a7e1cc7c8c04b7c6e5/spaceadventure1/src/main/game/application/Main.java#L27-L30
 
 2. Overriding
+https://github.com/Mrdhtillah/FP-OOP/blob/970a39d8ca7544ffe94bcf91a12965a8a319579a/spaceadventure1/src/main/game/application/Board.java#L74-L88
 https://github.com/Mrdhtillah/FP-OOP/blob/3c03e1c52073292fde87bd964bba8914bc8f2fdb/spaceadventure1/src/main/game/application/Board.java#L128-L139
+https://github.com/Mrdhtillah/FP-OOP/blob/970a39d8ca7544ffe94bcf91a12965a8a319579a/spaceadventure1/src/main/game/application/Board.java#L228-L237
 
 3. Inheritance
 https://github.com/Mrdhtillah/FP-OOP/blob/3c03e1c52073292fde87bd964bba8914bc8f2fdb/spaceadventure1/src/main/game/application/Treasure.java#L3
